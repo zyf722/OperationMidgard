@@ -2,6 +2,10 @@
 
 The **Operation Miðgarðr** is a fan-made Steins;Gate 0 **character sprite overhaul project**, intended to replace new character sprites with original ones from Steins;Gate.
 
+![Preview 1](https://s2.loli.net/2022/05/07/rlSq1Vz9MXdTRxu.jpg)
+
+![Preview 2](https://s2.loli.net/2022/05/07/wEKJzqayPlNx6fj.jpg)
+
 ## Status
 
 This project is still at a fairly early development stage, with the latest patched script `SG0_01_05.scx`.
