@@ -32,4 +32,4 @@ Thanks to those outstanding works:
 - [sc3ntist](https://github.com/CommitteeOfZero/sc3ntist): a disassembler for .scx scripts, which greatly helps us to locate sprite-related commands and fix those face-expression displaying errors
 
 ## License
-[The MIT License](https://github.com/zyf722/thedamn/blob/master/LICENSE)
+[The MIT License](https://github.com/zyf722/OperationMidgard/blob/main/LICENSE)
