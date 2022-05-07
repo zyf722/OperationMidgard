@@ -14,13 +14,13 @@ Currently planned characters includes _Kurisu_, _Suzuha_ and _Daru_.
 
 ## How It Works
 
-### Character Sprite Replacement
+### Character Sprite Replacement (Done)
 
 Given that Steins;Gate 0 has already contains all those original sprites from Steins;Gate, we simply replace those new sprites with old ones by renaming at first. For example, as for Kurisu, we replace one of the new sprites, `CRS_JLD.png` and `CRS_JLD_.lay`, with an old sprite `CRS_ALA.png` and a corresponding .lay file .
 
 ![](https://s2.loli.net/2022/05/07/pYmUWed7l35zLs9.png)
 
-### Expression Error Patch
+### Expression Error Patch (WIP)
 
 However, due to the difference in the number of expressions in new and old sprites, some displaying error might occur, such as missing faces or wrong expressions. We fix these errors by editing sprite commands in .scx scripts.
 
